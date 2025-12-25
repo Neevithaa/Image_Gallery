@@ -25,5 +25,4 @@ A responsive and dynamic Image Gallery built using React JS. The gallery display
 
 ---
 
-## 📂 Project Structure
 
